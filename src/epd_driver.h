@@ -10,7 +10,7 @@
 #include <v8.h>
 
 
-#define EPD2X9 1
+#define EPD1X54 1
 #ifdef EPD2X9
 	#define LCDWIDTH 296
 	#define LCDHEIGHT 128
